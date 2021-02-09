@@ -1,3 +1,3 @@
 # This is all about Jira
 
-# Yes Jira
+# Yes Jira is reconnected
